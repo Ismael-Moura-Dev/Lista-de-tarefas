@@ -7,7 +7,7 @@
 }
 
 body{
-    background-image: url('img/totoro.jpeg');
+    background-image: url('totoro.jpeg');
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
